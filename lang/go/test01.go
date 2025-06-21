@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
+// 将好家伙 定义为 int类型
+type Haojiahuo int
+
 func main() {
     //使用Role结构体创建一个角色代表任我行
 	rwx := Role{"任我行", "吸星大法", 10, 9.9}
