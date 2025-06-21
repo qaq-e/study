@@ -26,4 +26,5 @@ func (r Role) Kungfu() {
 //指针类型方法
 func (r *Role) Kungfu2() {
 	fmt.Printf("我是:%s，我的武功:%s,已经练到%d级了，杀伤力%.1f\n", r.Name, r.Ability, r.Level, r.Kill)
+	// test add
 }
