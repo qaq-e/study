@@ -1,2 +1,2 @@
 # 记录学习
-* [go](./lang/go/)
+* [go](lang/go/)
